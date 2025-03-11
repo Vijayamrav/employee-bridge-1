@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Vijay ",
+      "age": 24,
+      "gender": "Male",
+      "role": "Frontend Developer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu_voLGhaj-gL9xIdtoqAq_oGSzHy8UrAmSg&s"
+    },
+    {
+      "id": "2",
+      "name": "Aisha",
+      "age": 23,
+      "gender": "Female",
+      "role": "UI/UX Designer",
+      "image": "https://i.pinimg.com/474x/7a/05/c6/7a05c6210cf7fb3e4676bf297e409ab2.jpg",
+      "profession": "UI/UX Designer",
+      "dob": "2001-07-02"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Sharma",
+      "age": 30,
+      "gender": "Male",
+      "role": "Backend Developer",
+      "image": "https://i.pinimg.com/736x/ce/9a/08/ce9a0838309a55bf7ffdde4ffa517d5b.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Emily Watson",
+      "age": 26,
+      "gender": "Female",
+      "role": "Project Manager",
+      "image": "https://i.pinimg.com/474x/5c/7f/77/5c7f7762a10d8d7f2d64249e6876c558.jpg"
+    },
+    {
+      "id": "5",
+      "name": "James Anderson",
+      "age": 29,
+      "gender": "Male",
+      "role": "Full Stack Developer",
+      "image": "https://i.pinimg.com/736x/a7/6d/cf/a76dcfc34cffa115ea3de67c384ecf2a.jpg"
+    }
+  ]
+}
